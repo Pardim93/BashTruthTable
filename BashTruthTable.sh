@@ -1,5 +1,4 @@
 #!/bin/bash
-#o Tabela And; for i in {0..1}+{0..1}+{0..1}; do let "a =$i" ;echo $i = "$a";  done
 
 echo "Truth Table"
 
