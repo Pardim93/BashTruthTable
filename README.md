@@ -1,4 +1,4 @@
-# Truth Table Generator
+# Truth Table Generator Script
 
 An interactive Bash script for building and evaluating logical expressions as truth tables. Supports AND, OR, XOR, NOT, parenthesis grouping, and file export. Variables are auto-named `p, q, r, …` as you build.
 
